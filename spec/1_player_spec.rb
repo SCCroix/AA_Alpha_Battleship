@@ -1,4 +1,4 @@
-require "Player"
+require "player"
 
 # The code below suppresses stdout while rspec runs.
 #################################################################
